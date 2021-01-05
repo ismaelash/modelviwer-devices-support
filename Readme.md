@@ -23,7 +23,6 @@ API Rest for get all devices with model viewer(arcore/arkit) support
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Node,js](https://nodejs.org/en/)
 * [Axios](https://github.com/axios/axios)
 * [AWS Lambda](https://aws.amazon.com/lambda/)

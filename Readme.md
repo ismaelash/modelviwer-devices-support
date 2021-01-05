@@ -50,7 +50,7 @@ Methods:
 * GET
 * POST
 
-Send a **GET** request for get all model and brand.
+Send a **GET** request for get all model and brand. <br />
 Send a **POST** request with follow params: **option**(type int) and **filter**(type string and no need for option 1, 2, 3)
 
 About option param:

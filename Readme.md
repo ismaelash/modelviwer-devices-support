@@ -70,6 +70,7 @@ Body example:
 ```
 
 View how use the API via [Collection of Postman](https://github.com/ismaelash/modelviwer-devices-support/blob/main/Model%20Viewer%20Devices%20Support.postman_collection.json)
+ <br />
 View how use the API via [Youtube tutorial](https://www.youtube.com/c/IsmaelNascimentoAsh/videos)
 
 <!-- CONTRIBUTING -->
@@ -95,7 +96,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ismael Nascimento "Ash" - [@_ismaelash ](https://twitter.com/_ismaelash) - contato@ismaelnascimento.com}
+Ismael Nascimento "Ash" - [@_ismaelash ](https://twitter.com/_ismaelash) - contato@ismaelnascimento.com
+ <br />
 Ismael Nascimento "Ash" - [Linkedin ](https://www.linkedin.com/in/ismaelash)
 
 Project Link: [https://github.com/ismaelash/modelviwer-devices-support](https://github.com/ismaelash/modelviwer-devices-support)

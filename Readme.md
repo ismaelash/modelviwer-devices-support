@@ -69,8 +69,8 @@ Body example:
 }
 ```
 
-View how use the API via [Collection of Postman](https://nodejs.org/en/)
-View how use the API via [Youtube tutorial](https://nodejs.org/en/)
+View how use the API via [Collection of Postman](https://github.com/ismaelash/modelviwer-devices-support/blob/main/Model%20Viewer%20Devices%20Support.postman_collection.json)
+View how use the API via [Youtube tutorial](https://www.youtube.com/c/IsmaelNascimentoAsh/videos)
 
 <!-- CONTRIBUTING -->
 ## Contributing

@@ -55,17 +55,19 @@ Send a **POST** request with follow params: **option**(type int) and **filter**(
 
 About option param:
 
-**1**: Show all brand and model together
-**2**: Show just all brands
-**3**: Show just all models
-**4**: Get models of brand with filter (FILTER param: brand name)
+**1**: Show all brand and model together <br />
+**2**: Show just all brands <br />
+**3**: Show just all models <br />
+**4**: Get models of brand with filter (FILTER param: brand name) <br />
 **5**: Return if a model is supported and show if exist similar models too (FILTER param: model name)
 
 Body example:
+```json
 {
     "option": 2,
     "filter": "brand(option 4) or model(option 5)"
 }
+```
 
 View how use the API via [Collection of Postman](https://nodejs.org/en/)
 View how use the API via [Youtube tutorial](https://nodejs.org/en/)

@@ -95,7 +95,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ismael Nascimento "Ash" - [@_ismaelash ](https://twitter.com/_ismaelash) - contato@ismaelnascimento.com
+Ismael Nascimento "Ash" - [@_ismaelash ](https://twitter.com/_ismaelash) - contato@ismaelnascimento.com}
+Ismael Nascimento "Ash" - [Linkedin ](https://www.linkedin.com/in/ismaelash)
 
 Project Link: [https://github.com/ismaelash/modelviwer-devices-support](https://github.com/ismaelash/modelviwer-devices-support)
 

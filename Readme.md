@@ -8,7 +8,7 @@
   <p align="center">
     API Rest for get all devices with model viewer(arcore/arkit) support
     <br />
-    <a href="https://www.youtube.com/c/IsmaelNascimentoAsh/videos">View Demo</a>
+    <a href="https://youtu.be/bwI3F-bhfPo">View Demo</a>
     ·
     <a href="https://github.com/ismaelash/modelviwer-devices-support/issues">Report Bug</a>
     ·
@@ -71,7 +71,7 @@ Body example:
 
 View how use the API via [Collection of Postman](https://github.com/ismaelash/modelviwer-devices-support/blob/main/Model%20Viewer%20Devices%20Support.postman_collection.json)
  <br />
-View how use the API via [Youtube tutorial](https://www.youtube.com/c/IsmaelNascimentoAsh/videos)
+View how use the API via [Youtube tutorial](https://youtu.be/bwI3F-bhfPo)
 
 <!-- CONTRIBUTING -->
 ## Contributing

@@ -8,7 +8,9 @@
   <p align="center">
     API Rest for get all devices with model viewer(arcore/arkit) support
     <br />
-    <a href="https://youtu.be/bwI3F-bhfPo">View Demo</a>
+    <a href="https://github.com/ismaelash/modelviwer-devices-support-frontend">View Demo</a>
+    ·
+   <a href="https://youtu.be/bwI3F-bhfPo">Video how use</a>
     ·
     <a href="https://github.com/ismaelash/modelviwer-devices-support/issues">Report Bug</a>
     ·
